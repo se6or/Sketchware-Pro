@@ -1926,7 +1926,7 @@ ACTION_VIEW
     <string name="share_collection_inform_message_limit_tag_count">Exceeded the number of tags that can be added</string>
     <string name="share_collection_inform_message_no_input_tag">No tag to add</string>
     <string name="share_collection_inform_message_tag_added_already">Already added tag</string>
-    <string name="share_collection_inform_message_tag_middle_sharp">"\# can't be in the middle of tag"</string>
+    <string name="share_collection_inform_message_tag_middle_sharp">"# can't be in the middle of tag"</string>
     <string name="share_collection_inform_title_related_tag">Related Tag</string>
     <string name="share_collection_inform_title_tag">Tag</string>
     <string name="share_collection_information_message_desc_length">The text length is invalid. Please double check the length of your collection information.</string>
@@ -2397,7 +2397,7 @@ Please try again later"</string>
     <string name="hardcoded_edit_1">Edit</string>
     <string name="hardcoded_edit_2">EDIT</string>
     <string name="hardcoded_edit_with">Edit with...</string>
-    <string name="hardcoded_editors_choice">Editor\\'s Choice</string>
+    <string name="hardcoded_editors_choice">Editor\'s Choice</string>
     <string name="hardcoded_effects">Effects</string>
     <string name="hardcoded_either_enter_a_hex_color_code_or_pick_a_color_from_the_list">Either enter a hex color code or pick a color from the list below.</string>
     <string name="hardcoded_enable_debug_logcat_logs_viewable_in_logcat_reader_not_enabl">Enable debug logcat logs viewable in Logcat Reader. Not enabled in exported AABs/APKs.</string>
@@ -2604,7 +2604,7 @@ Please try again later"</string>
     <string name="hardcoded_type_eg_file">Type, e.g. File</string>
     <string name="hardcoded_type_name">Type name</string>
     <string name="hardcoded_undo">Undo</string>
-    <string name="hardcoded_unknown">\#</string>
+    <string name="hardcoded_unknown">#</string>
     <string name="hardcoded_unknown_1">: </string>
     <string name="hardcoded_unknown_2"> / </string>
     <string name="hardcoded_unknown_3">.</string>

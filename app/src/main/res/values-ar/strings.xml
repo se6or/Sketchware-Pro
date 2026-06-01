@@ -1905,7 +1905,7 @@
     <string name="share_collection_inform_message_limit_tag_count">تجاوزت عدد الوسوم التي يمكن إضافتها</string>
     <string name="share_collection_inform_message_no_input_tag">لا يوجد وسم لإضافته</string>
     <string name="share_collection_inform_message_tag_added_already">الوسم مُضاف بالفعل</string>
-    <string name="share_collection_inform_message_tag_middle_sharp">"\# لا يمكن أن تكون في منتصف الوسم"</string>
+    <string name="share_collection_inform_message_tag_middle_sharp">"# لا يمكن أن تكون في منتصف الوسم"</string>
     <string name="share_collection_inform_title_related_tag">وسم مرتبط</string>
     <string name="share_collection_inform_title_tag">وسم</string>
     <string name="share_collection_information_message_desc_length">طول النص غير صالح. يرجى التحقق مرة أخرى من طول معلومات مجموعتك.</string>
