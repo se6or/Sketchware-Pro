@@ -2579,8 +2579,7 @@
     <string name="hardcoded_unknown_3">.</string>
     <string name="hardcoded_unspecified">غير محدد</string>
     <string name="hardcoded_use_materialcomponents">استخدام MaterialComponents</string>
-    <string name="hardcoded_use_moreblocknametypetypename_ornmoreblocknametypetypenamety">استخدم (moreblockName[type|typeName] أو
-moreblockName[type|typeName|typeCode]) لأنواع البلوكات الإضافية المخصصة</string>
+    <string name="hardcoded_use_moreblocknametypetypename_ornmoreblocknametypetypenamety">استخدم (moreblockName[type|typeName] أو\nmoreblockName[type|typeName|typeCode]) لأنواع البلوكات الإضافية المخصصة</string>
     <string name="hardcoded_value">القيمة</string>
     <string name="hardcoded_value_1">القيمة</string>
     <string name="hardcoded_variable_name">اسم المتغير</string>
